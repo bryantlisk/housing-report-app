@@ -1,9 +1,18 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/qgEWmaMc)
 # Housing Whistleblowing App Group B-10
 
-__Names:__ Bryant Lisk, Mustafa Lonandwala, Tim Wang, Varun Yeruva, Joshua Yu
+Worked with 4 other people, names removed for privacy reasons.
 
-__Computing IDs:__ rhq6nu, paq6ha, mbk7ff, kxf3ra, uqj7ur
+The files were copied from the original repo as forking is restricted in the organization. We were given explicit permission to copy our code
+to personal repositories for portfolio purposes by the instructors of the course.
+
+This is a Django project that allows users to submit reports for housing related issues.
+
+In this project, I took the role of Scrum Master. I organized and lead our group meetings, figured out what needed to be done for the next sprint,
+and assigned work based on people's team roles. Code wise, I created the google login, the system linking users and admins through groups, the admin dashboard,
+as well as various other contributions here and there along with bug fixes. The project was originally deployed on [https://housing-app-ae29b1766b91.herokuapp.com/], but
+the link may have depreceated if the Heroku bill runs out.
+
+-----
 
 This software allows users to submit reports for issues related to their housing.
 They must first join a building group given to them by a building administrator, then they can submit reports to any group they are a part of.
