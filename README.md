@@ -3,8 +3,8 @@
 Worked with 4 other people, names removed for privacy reasons.
 
 The files were copied from the original repo as forking is restricted in the organization. We were given explicit permission to copy our code
-to personal repositories for portfolio purposes by the instructors of the course. Since it was copied, no changes were made to the final code
-submitted for the project, meaning some things may have broken in the process, however everything works fully as intended on the main repo.
+to personal repositories for portfolio purposes by the instructors of the course. This will only if the heroku link below is still up, or on a local machine
+with access to the right keys, as some features rely on APIs and I am not currently paying for hosting.
 
 This is a Django project that allows users to submit reports for housing related issues.
 
